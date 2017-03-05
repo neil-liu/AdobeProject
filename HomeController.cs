@@ -11,6 +11,7 @@ namespace AttractionService.Controllers
         public ActionResult Index()
         {
             return View();
+			// this is a comment. test git commit.
         }
     }
 }
